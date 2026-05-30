@@ -1,4 +1,4 @@
-# # Olá, eu sou a Fabricia Faustino Santos! 👋
+# Olá, eu sou a Fabricia Faustino Santos! 👋
 
 Aqui você vai encontrar os projetos que estou desenvolvendo enquanto construo a minha nova trajetória na tecnologia.
 
@@ -34,8 +34,8 @@ Aqui estão as tecnologias que estou estudando e aplicando nos meus projetos:
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabriciafsantos1109&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciafsantos1109&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Aqui estão as tecnologias que estou estudando e aplicando nos meus projetos:
 Se quiser trocar uma ideia sobre transição de carreira, programação ou acompanhar a minha jornada, pode me encontrar aqui:
 
 <p align="left">
-  <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/fabricia-faustino-953185412?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
